@@ -8,4 +8,6 @@ public class Model {
     private int x,y;
 
     private int p ,q;
+
+    private int m,n;
 }
